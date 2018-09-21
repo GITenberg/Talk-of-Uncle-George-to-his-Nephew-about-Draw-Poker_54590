@@ -1,11 +1,16 @@
 _repo: Talk-of-Uncle-George-to-his-Nephew-about-Draw-Poker_54590
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54590-h/images/cover.jpg
 creator:
   author:
     agent_name: George, Uncle
     gutenberg_agent_id: '47944'
     url: http://www.gutenberg.org/2009/agents/47944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54590#Talk-of-Uncle-George-to-his-Nephew-about-Draw-Poker
 gutenberg_issued: '2017-04-23'
 gutenberg_type: Text
 identifiers:
